@@ -49,13 +49,12 @@ or simply drag it into your browser window.
 theme-clock/
 │
 ├── index.html       # Main HTML file
+
 ├── style.css        # Styling for the clock and themes
+
 └── script.js        # Clock logic and dark mode toggle
 
-💻 Live Demo
 
-If hosted on GitHub Pages, add your link here:
-👉 View Live Demo
 
 📝 License
 
