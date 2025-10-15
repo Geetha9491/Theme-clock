@@ -30,7 +30,7 @@ JavaScript (Vanilla JS) — Clock functionality and theme switching
 
 Clone this repository
 
-git clone https://github.com/your-username/theme-clock.git
+git clone https://github.com/Geetha9491/Theme-clock.git
 
 
 Navigate into the project folder
